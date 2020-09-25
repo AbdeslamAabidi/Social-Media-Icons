@@ -1,0 +1,9 @@
+name: social media icons
+type: module
+description: 'Showing social media icons with links to the social media profiles.'
+core: '8.x'
+configure: social_media_icons.settings
+package: 'Custom'
+dependencies:
+  - block
+ 

@@ -1,0 +1,7 @@
+social_media_icons.settings:
+  path: '/admin/config/social_media_icons'
+  defaults:
+    _form: '\Drupal\social_media_icons\Form\Settings'
+    _title: 'Social Media Icons'
+  requirements:
+    _permission: 'access administration pages'

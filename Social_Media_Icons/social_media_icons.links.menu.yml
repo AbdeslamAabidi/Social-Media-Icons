@@ -1,0 +1,6 @@
+social_media_icons.settings:
+  title: 'Social Media Icons'
+  description: 'Showing social media icons with links to the social media profiles.'
+  route_name: social_media_icons.settings
+  parent: system.admin_config
+  weight: -999

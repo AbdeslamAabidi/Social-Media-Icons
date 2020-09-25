@@ -1,0 +1,13 @@
+social_media_icons:
+  version: 1.x
+  dependencies:
+    - core/jquery
+    - core/jquery.once
+    - core/drupalSettings 
+  css:
+    theme:
+      css/social_media_icons.css: {}
+    layout:  
+      css/social_media_icons.css: {}      
+  js:
+    js/social_media_icons.js: {}
